@@ -39,6 +39,7 @@ body {
   background-color: #fff29e; 
 }
 #content {
+  text-indent:50px;
   font-size:large;
     color:#001e63;
   width: 1000px;

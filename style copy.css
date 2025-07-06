@@ -13,6 +13,18 @@ body {
   margin-left: auto;
   margin-right: auto; 
 }
+#miniheader  {
+  background-color:#999efe;
+  width: 1200px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  height:100px;
+
+}
+#miniheader.img{
+  object-fit:scale-down;
+}
 #header {
   font-size:x-large;
     color:#feffe2;
